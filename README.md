@@ -1,4 +1,4 @@
-##Modulo front-end
+## Modulo front-end
 - [ ]  reorganizar em uma unica pasta do modulo 6? ficaria melhor? mesmo assim ainda iriam ter muitos modulos. resolvei isso depois
 
 - 6.1 : HTML & CSS - Forms
