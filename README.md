@@ -1,6 +1,5 @@
-<h2>Atualizando em breve</h2>
-<hr>
-- [ ] reorganizar em uma unica pasta do modulo 6? ficaria melhor? mesmo assim ainda iriam ter muitos modulos. resolvei isso depois
+
+- [ ]  reorganizar em uma unica pasta do modulo 6? ficaria melhor? mesmo assim ainda iriam ter muitos modulos. resolvei isso depois
 
 - 6.1 : HTML & CSS - Forms
 - 6.2 : Bibliotecas JavaScript e Frameworks CSS
