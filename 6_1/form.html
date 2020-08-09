@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <form action="" method="" enctype="multipart/form-data">
+    <fieldset>
+      <label for="nome">Nome</label>
+      <input type="text" name="nome" id="nome" maxlength="40" required="required"><br><br>
+
+      <label for="email"Email>Email</label>
+      <input type="email" name="email" id="email" maxlength="50" required="required"><br><br>
+
+      <label for="cpf">CPF</label>
+      <input type="text" name="cpf" id="cpf" maxlength="11" required="required"><br><br>
+
+      <label for="endereco">Endereco</label>
+      <input type="text" name="endereco" id="endereco" maxlength="200" required="required"><br><br>
+
+      <label for="cidade">Cidade</label>
+      <input type="text" name="cidade" id="cidade" maxlength="28" required="required"><br><br>
+
+      <label for="estado">Estado</label>
+      <select name="estado" id="estado">
+      </select><br><br>
+      
+      <p>Tipo</p>
+      <label for="casa">Casa</label>
+      <input type="radio" name="tipo" value="Casa" id="casa" required="required">
+      <label for="apartamento">Apartamento</label>
+      <input type="radio" name="tipo" value="apartamento" id="apartamento" required="required">
+      <br><br>
+    </fieldset>
+
+    <fieldset>
+      <label for="resumo">Resumo do Currículo</label>
+      <input name="resumo" type="textarea" maxlength="1000" required="required"><br><br>
+      <label for="cargo">Cargo</label>
+      <input type="text" name="cargo" id="cargo" maxlength="40" required="required"><br><br>
+      <label for="descricao">Descrição do Cargo</label>
+      <input type="text" name="descricao" id="descricao" maxlength="500" required="required"><br><br>
+      <label for="inicio">Data de Início</label>
+      <input type="date" name="inicio" id="inicio">
+    </fieldset>
+    <button type="submit" id="enviar" >Enviar</button> 
+  </form>
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,144 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* Telas pequenas */
+@media screen and (max-width: 768px) {
+  .container {
+    padding: 30px;
+  }
+  header p {
+    font-size: 4rem;
+    text-align: center;
+  }
+
+  nav li {
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+  }
+
+  aside h2 {
+    font-size: 3rem;
+    text-align: center;
+  }
+
+  .aside-one li , .aside-two li {
+    font-size: 2rem;
+    line-height: 3rem;;
+  }
+
+  .main-content h1 {
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  .main-content p {
+    font-size: 2rem;
+    line-height: 4rem;
+    text-align: justify;
+  }
+}
+
+
+/* Telas médias */
+@media screen and (min-width: 768px) {
+  body {
+    padding: 50px;
+  }
+
+  header p {
+    font-size: 4rem;
+    text-align: center;
+  }
+
+  nav ul {
+    font-size: 2rem;
+  }
+
+  .aside-one li , .aside-two li {
+    line-height: 3rem;
+  }
+
+  aside h2 {
+    font-size: 3rem;
+  }
+
+  aside li {
+    font-size: 2rem;
+  }
+
+  .main-content h1 {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 4rem;
+
+  }
+
+  .main-content p {
+    text-align: justify;
+    font-size: 2rem;
+    line-height: 4rem;
+  }
+
+  footer h3 {
+    font-size: 3rem;
+  }
+
+  footer p {
+    font-size: 1.5rem;
+  }
+}
+
+
+/* Telas Grandes */
+@media screen and (min-width: 1200px) {
+  .container {
+    padding: 50px;
+  }
+
+  header p {
+    font-size: 6rem;
+    text-align: center;
+  }
+
+  nav ul {
+    font-size: 3rem;
+  }
+
+  .aside-one li , .aside-two li {
+    line-height: 3.5rem;
+  }
+
+
+  aside h2 {
+    font-size: 4rem;
+  }
+
+  aside li {
+    font-size: 2.5rem;
+  }
+
+  .main-content h1 {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 5rem;
+
+  }
+
+  .main-content p {
+    text-align: justify;
+    font-size: 3rem;
+    line-height: 5rem;
+  }
+
+  footer h3 {
+    font-size: 3rem;
+  }
+
+  footer p {
+    font-size: 2rem;
+  }
+}
