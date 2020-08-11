@@ -6,3 +6,4 @@
 - 6.3 : Introdução - CSS Flexbox
 - 6.4 : CSS Flexbox - Parte 2
 - 6.5 : CSS Responsivo - Mobile First
+- 7.1 : JavaScript ES6 - let, const, arrow functions e template literals
