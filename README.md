@@ -7,3 +7,4 @@
 - 6.4 : CSS Flexbox - Parte 2
 - 6.5 : CSS Responsivo - Mobile First
 - 7.1 : JavaScript ES6 - let, const, arrow functions e template literals
+- 7.2 : JavaScript ES6 - Objects
