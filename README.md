@@ -9,3 +9,7 @@
 - 7.1 : JavaScript ES6 - let, const, arrow functions e template literals
 - 7.2 : JavaScript ES6 - Objects
 - 7.3 : Testes unitários em JavaScript
+- 8.1 : JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- 8.2 : JavaScript ES6 - Higher Order Functions - map e filter
+- 8.3 : JavaScript ES6 - Higher Order Functions - reduce
+- 8.4 : JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
